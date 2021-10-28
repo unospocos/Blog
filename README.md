@@ -1,0 +1,2 @@
+# Blog
+Makine Öğrenmesi
